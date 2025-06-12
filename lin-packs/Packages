@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: all
 Maintainer: Falah Ahmed <kpfalah99@gmail.com>
 Filename: pool/main/d/downganizer/downganizer_1.0_all.deb
-Size: 1994
-MD5sum: aa7c92e5754ca3577122cce3619fc11f
-SHA1: db7ff6c61f695ee4bf586f496650287be46c4e42
-SHA256: a73725872dca6ed95992415775640bf86714fc57c7c2fdbaeadf2fdd38e8d85e
+Size: 1992
+MD5sum: fd3396e2f386f01fff58965882254a28
+SHA1: d250a425e382b9f37a0ba0fe46651095bc5d07a9
+SHA256: 8963864304eaa99ed7d294abb7b96d720e28acb8fe674b7a97799bcc976f9e07
 Section: utils
 Priority: optional
 Description: A script to create a command from executable files.
