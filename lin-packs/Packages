@@ -15,3 +15,19 @@ Description: A script to create a command from executable files.
    You can contact me at telegram: @chruxAdmin
    github: @falahahmed
 
+Package: downganizer
+Version: 1.0
+Architecture: all
+Maintainer: Falah Ahmed <kpfalah99@gmail.com>
+Filename: pool/main/d/downganizer/downganizer_1.0_all.deb
+Size: 1982
+MD5sum: 7e2ac1f1998927b8b036a7e483661f8b
+SHA1: a75a504fd3eadbfdb02bd9c9449eb339ea425c1f
+SHA256: 0fc37a57e1ee03a3f258ecf093b56fd9f4406b2e24f20a721d9a7d125bf07a4b
+Section: utils
+Priority: optional
+Description: A script to organize files in the Downloads directory.
+   This script also automates the organization process.
+   This is intended to be a systemctl service in the future. A helping hand is always welcome.
+   You can contact me at telegram: @chruxAdmin
+   github: @falahahmed
