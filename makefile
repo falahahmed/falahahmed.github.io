@@ -9,5 +9,6 @@ update:
 
 gitup:
 	git add .
-	git commit -m "Update in packages"
+	git status
+	git commit -m "Update in packages[update automated]"
 	git push
