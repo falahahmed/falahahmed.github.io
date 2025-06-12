@@ -1,8 +1,8 @@
-Origin: mkcmd
-Label: mkcmd
+Origin: Adekacci
+Label: Adekacci
 Suite: stable
 Codename: focal
 Version: 1.2
 Architectures: amd64 focal
 Components: main
-Description: mkcmd package repository
+Description: Adekacci's Linux apt packages
