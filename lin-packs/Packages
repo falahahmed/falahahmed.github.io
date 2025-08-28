@@ -1,30 +1,13 @@
-Package: downganizer
-Version: 1.1
-Architecture: all
-Maintainer: Falah Ahmed <kpfalah99@gmail.com>
-Filename: pool/main/d/downganizer/downganizer_1.1_all.deb
-Size: 2036
-MD5sum: 7a50c31ec6973df755cd3437c7edd2e5
-SHA1: bd7facd50d6c6e64070dff9f316582a4b94e64d3
-SHA256: e60d2f36b31632213471cd10b74263cdaa35c396b814a2c1d72059e359b1e385
-Section: utils
-Priority: optional
-Description: A script to create a command from executable files.
-   Currently, it is only available for files like .AppImage
-   I want to add more file extensions. A helping hand is always welcome.
-   You can contact me at telegram: @chruxAdmin
-   github: @falahahmed
-
 Package: downganizer-beta
 Version: 1.4.0
 Architecture: all
 Maintainer: Falah Ahmed <kpfalah99@gmail.com>
 Depends: inotify-tools (>= 3.22.6)
 Filename: pool/main/d/downganizer-beta/downganizer-beta_1.4.0_all.deb
-Size: 3788
-MD5sum: 533314200c4a8cd3dd2289a43d4316de
-SHA1: e20c23170f88d91b0690aa5f5ad282de0918ad95
-SHA256: 1d0144b85bfa451a7d12e387231725cbe8222cacd7846c653f7da5f8f29c31bc
+Size: 3858
+MD5sum: 988839d543e5541d41e721b808beecf1
+SHA1: d7ecf3386c1efbededb6228b7131430a88dbd7dc
+SHA256: ed8e7a87cb2e5c0f07a528d78029a00441cce2428f18f7029a2cef5b8be4e3d6
 Section: utils
 Priority: optional
 Description: A script to automate organizing download files
