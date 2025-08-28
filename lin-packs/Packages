@@ -4,10 +4,10 @@ Architecture: all
 Maintainer: Falah Ahmed <kpfalah99@gmail.com>
 Depends: inotify-tools (>= 3.22.6)
 Filename: pool/main/d/downganizer-beta/downganizer-beta_1.4.0_all.deb
-Size: 3858
-MD5sum: 988839d543e5541d41e721b808beecf1
-SHA1: d7ecf3386c1efbededb6228b7131430a88dbd7dc
-SHA256: ed8e7a87cb2e5c0f07a528d78029a00441cce2428f18f7029a2cef5b8be4e3d6
+Size: 3872
+MD5sum: 1abc0c6cd4dd7ba6e4f5d04718fe9145
+SHA1: 4af259dc6e36f057651c6afd03a72240e69c71b3
+SHA256: 45ce524ff4d24d0c682842a7b1d7dc34475c0d2882584a40601bad166157178d
 Section: utils
 Priority: optional
 Description: A script to automate organizing download files
