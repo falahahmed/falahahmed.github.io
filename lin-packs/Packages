@@ -15,6 +15,24 @@ Description: A script to create a command from executable files.
    You can contact me at telegram: @chruxAdmin
    github: @falahahmed
 
+Package: downganizer-beta
+Version: 1.4.0
+Architecture: all
+Maintainer: Falah Ahmed <kpfalah99@gmail.com>
+Depends: inotify-tools (>= 3.22.6)
+Filename: pool/main/d/downganizer-beta/downganizer-beta_1.4.0_all.deb
+Size: 3788
+MD5sum: 533314200c4a8cd3dd2289a43d4316de
+SHA1: e20c23170f88d91b0690aa5f5ad282de0918ad95
+SHA256: 1d0144b85bfa451a7d12e387231725cbe8222cacd7846c653f7da5f8f29c31bc
+Section: utils
+Priority: optional
+Description: A script to automate organizing download files
+   You can utilize available options to organize your downloaded files
+   I'm planning to extend organizing criteria and to develop gui. A helping hand is always welcome.
+   You can contact me at telegram: @chruxAdmin
+   github: @falahahmed
+
 Package: mkcmd
 Version: 1.2
 Architecture: all
